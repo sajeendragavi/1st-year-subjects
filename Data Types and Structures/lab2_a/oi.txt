@@ -1,0 +1,4 @@
+Azerbaijan   10000000   Baku         Europe     excursions 7243      history
+Brazil       210000000  Brasilia     America    beach      summer    28      28  10
+Cuba         11000000   Havana       America    beach      spring    30      30  5 
+Turkey       80000000   Istambul     Europe     beach      summer    25      33  4 
